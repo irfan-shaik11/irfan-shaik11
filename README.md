@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **German** and diving deeper into **SQL** and **backend systems**
 - 💬 Ask me about **databases, backend architecture, or philosophical insights**
 - 🩺 I’ve recently undergone **hemorrhoid plasty surgery** – healing and slowly bouncing back!
-- 📫 Reach me at: **irfanshaik.info@gmail.com**
+- 📫 Reach me at: **irfanshaik1113@gmail.com**
 - ⚡ Fun fact: I believe even the smallest questions can hold deep meaning.
 
 ---
@@ -36,8 +36,8 @@
 ---
 
 ### 🤝 Let’s Connect:
-- [LinkedIn](https://www.linkedin.com/in/your-link/) *(Add your link here)*
-- [Portfolio Website](https://your-website.com) *(If you have one)*
+- [LinkedIn](https://www.linkedin.com/in/your-link/) *(https://www.linkedin.com/in/irfan-irfan-516b13216/)*
+- [Portfolio Website](https://your-website.com) *()*
 
 e its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
